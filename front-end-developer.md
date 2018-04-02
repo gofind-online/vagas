@@ -22,8 +22,9 @@ Alocação Full-Time no nosso escritório em Joinville/SC
 ## Benefícios
 
 - Salario compativel com o cargo e sua experiência
-- Plano de saúde
-- Seguro de vida
+- Plano de Saúde
+- Vale Alimentação
+- Vale Transporte
 
 ## Requisitos
 
