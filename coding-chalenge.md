@@ -23,7 +23,7 @@ Você deverá apresentar o resultado em formato de lista. Como referencia, segue
 
 Tempo recomendado: 4 horas
 
-# Critérios de Avaliação
+# Bonus
 
 1. Testes unitarios
 2. Scripts para automação do build
