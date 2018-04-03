@@ -12,6 +12,10 @@ Você deverá apresentar o resultado em formato de lista. Como referencia, segue
 ![Captura Tela App](https://s3-sa-east-1.amazonaws.com/gofind.img.repo/captura-tela-app.jpg)
 
 
+É obrigatório apresentar a imagem e o nome do produto, mas o formato de apresentação fica totalmente ao seu critério, não sendo necessario seguir o exemplo do aplicativo.
+
+Seja inventivo :)
+
 # Critérios de Avaliação
 
 1. Fundamentos e boas praticas Javascript / CSS / HTML
